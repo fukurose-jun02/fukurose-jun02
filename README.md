@@ -29,9 +29,8 @@ Claude / Claude Code を使った業務効率化や、子どもと遊べる小�
 |---|---|
 | [fukuchan-app](https://github.com/fukurose-jun02/fukuchan-app) | 家族AIチャットボット「ふくちゃんトーク」フロントエンド |
 | [fukuchan-knowledge](https://github.com/fukurose-jun02/fukuchan-knowledge) | 「ふくちゃんトーク」のナレッジ・プロンプト管理 🔒 |
-| [youtube_kodomotoodekake](https://github.com/fukurose-jun02/youtube_kodomotoodekake) | 家族のおでかけ動画をまとめる記録サイト 🔒 |
-| [TubeAudio-iOS](https://github.com/fukurose-jun02/TubeAudio-iOS) | YouTube音声変換iOSアプリ（SwiftUI） 🔒 |
-| [youtube-audio-converter](https://github.com/fukurose-jun02/youtube-audio-converter) | YouTube→M4A/MP3変換ツール（Flask + yt-dlp） 🔒 |
+| [youtube_kodomotoodekake](https://github.com/fukurose-jun02/youtube_kodomotoodekake) | 家族のおでかけ動画をまとめる記録サイト |
+| [TubeAudio](https://github.com/fukurose-jun02/TubeAudio) | YouTube音声変換アプリ一式（iOS: SwiftUI + サーバー: Flask/yt-dlp） |
 
 ---
 
@@ -57,3 +56,5 @@ Claude / Claude Code を使った業務効率化や、子どもと遊べる小�
 ---
 
 🔒 = 非公開リポジトリ　🍴 = フォーク
+
+最終更新日: 2026-08-07
