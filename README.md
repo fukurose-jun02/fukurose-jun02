@@ -34,6 +34,16 @@ Claude / Claude Code を使った業務効率化や、子どもと遊べる小�
 
 ---
 
+## 🩺 個人利用ツール
+
+自分用に作っているツールです。
+
+| リポジトリ | 内容 |
+|---|---|
+| [HealthDashboard](https://github.com/fukurose-jun02/HealthDashboard) | ローカルファーストの健康データダッシュボード（SwiftUI） 🔒 |
+
+---
+
 ## 🤖 AI・自動化ツール
 
 業務効率化やAI活用のための自作ツールです。
@@ -43,6 +53,7 @@ Claude / Claude Code を使った業務効率化や、子どもと遊べる小�
 | [claude-skills](https://github.com/fukurose-jun02/claude-skills) | Claude Cowork用カスタムスキル集 🔒 |
 | [gmail-line-notifier](https://github.com/fukurose-jun02/gmail-line-notifier) | GmailからLINEへ通知する自動化ツール 🔒 |
 | [talent-management](https://github.com/fukurose-jun02/talent-management) | 社員情報・スキルを管理するタレントマネジメントシステム 🔒 |
+| [competitor-intel](https://github.com/fukurose-jun02/competitor-intel) | HR SaaS/HCM競合のニュース・機能情報を蓄積するウォッチDB 🔒 |
 
 ---
 
@@ -57,4 +68,4 @@ Claude / Claude Code を使った業務効率化や、子どもと遊べる小�
 
 🔒 = 非公開リポジトリ　🍴 = フォーク
 
-最終更新日: 2026-08-07
+最終更新日: 2026-09-11
