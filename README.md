@@ -41,6 +41,8 @@ Claude / Claude Code を使った業務効率化や、子どもと遊べる小�
 | リポジトリ | 内容 |
 |---|---|
 | [HealthDashboard](https://github.com/fukurose-jun02/HealthDashboard) | ローカルファーストの健康データダッシュボード（SwiftUI） 🔒 |
+| [household-finance-agent](https://github.com/fukurose-jun02/household-finance-agent) | Money ForwardのCSVを基に家計簿データを安全に集計・分析する家計分析エージェント 🔒 |
+| [virtual-talk](https://github.com/fukurose-jun02/virtual-talk) | 実在人物の発言傾向を再現し相談できるLINE風チャットアプリ「バーチャルトーク」 🔒 |
 
 ---
 
@@ -54,6 +56,7 @@ Claude / Claude Code を使った業務効率化や、子どもと遊べる小�
 | [gmail-line-notifier](https://github.com/fukurose-jun02/gmail-line-notifier) | GmailからLINEへ通知する自動化ツール 🔒 |
 | [talent-management](https://github.com/fukurose-jun02/talent-management) | 社員情報・スキルを管理するタレントマネジメントシステム 🔒 |
 | [competitor-intel](https://github.com/fukurose-jun02/competitor-intel) | HR SaaS/HCM競合のニュース・機能情報を蓄積するウォッチDB 🔒 |
+| [ouchi-wo-tateyou](https://github.com/fukurose-jun02/ouchi-wo-tateyou) | SUUMO・アットホーム・HOME'Sの新着物件メールを解析し台帳と照合してLINEで通知するツール 🔒 |
 
 ---
 
@@ -63,6 +66,7 @@ Claude / Claude Code を使った業務効率化や、子どもと遊べる小�
 |---|---|
 | [cc-secretary](https://github.com/fukurose-jun02/cc-secretary) | Claude Code用パーソナル秘書プラグイン 🍴 |
 | [everything-claude-code](https://github.com/fukurose-jun02/everything-claude-code) | Claude Code運用ツール集 🍴 |
+| [claude-security-scan](https://github.com/fukurose-jun02/claude-security-scan) | 「セキュリティチェックして」の一言でMac・リポジトリ・GitHub等を読み取り専用で横断点検するClaude Codeスキル 🍴 |
 
 ---
 
@@ -78,4 +82,4 @@ AIを活用したメディア記事・画像制作プロジェクトです。
 
 🔒 = 非公開リポジトリ　🍴 = フォーク
 
-最終更新日: 2026-10-01
+最終更新日: 2026-11-01
